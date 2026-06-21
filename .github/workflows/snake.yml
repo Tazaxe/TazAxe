@@ -6,7 +6,7 @@ schedule:
 workflow_dispatch:
 
 jobs:
-build:
+generate:
 runs-on: ubuntu-latest
 
 ```
