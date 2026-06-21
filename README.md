@@ -26,4 +26,4 @@ I build tools because existing ones annoy me.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/TazAxe/TazAxe/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/TazAxe/TazAxe/output/github-contribution-grid-snake.svg)
