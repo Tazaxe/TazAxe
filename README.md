@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm TazAxe
 
-<!--
-**Tazaxe/TazAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building tools because I can.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=TazAxe\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* Python
+* Lua (Roblox)
+* Web Development
+
+## 📫 Reach Me
+
+* GitHub: https://github.com/TazAxe
+
+## ⚡ Fun Fact
+
+I build tools because existing ones annoy me.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TazAxe\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TazAxe\&layout=compact\&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/TazAxe/TazAxe/blob/output/github-contribution-grid-snake.svg)
