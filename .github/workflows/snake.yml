@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake Animation
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,9 +17,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: TazAxe
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
